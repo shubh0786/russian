@@ -1,0 +1,9 @@
+C:\Users\shiv\source\repos\russian\russian\bin\Release\russian.exe
+C:\Users\shiv\source\repos\russian\russian\bin\Release\russian.exe.config
+C:\Users\shiv\source\repos\russian\russian\obj\Release\russian.Form1.resources
+C:\Users\shiv\source\repos\russian\russian\obj\Release\russian.Form2.resources
+C:\Users\shiv\source\repos\russian\russian\obj\Release\russian.Properties.Resources.resources
+C:\Users\shiv\source\repos\russian\russian\obj\Release\russian.csproj.GenerateResource.cache
+C:\Users\shiv\source\repos\russian\russian\obj\Release\russian.csproj.CoreCompileInputs.cache
+C:\Users\shiv\source\repos\russian\russian\obj\Release\russian.exe
+C:\Users\shiv\source\repos\russian\russian\obj\Release\russian.pdb

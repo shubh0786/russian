@@ -1,0 +1,12 @@
+C:\Users\shiv\source\repos\russian\russian\bin\Debug\russian.exe
+C:\Users\shiv\source\repos\russian\russian\bin\Debug\russian.exe.config
+C:\Users\shiv\source\repos\russian\russian\obj\Debug\russian.Form1.resources
+C:\Users\shiv\source\repos\russian\russian\obj\Debug\russian.Form2.resources
+C:\Users\shiv\source\repos\russian\russian\obj\Debug\russian.Form3.resources
+C:\Users\shiv\source\repos\russian\russian\obj\Debug\russian.Properties.Resources.resources
+C:\Users\shiv\source\repos\russian\russian\obj\Debug\russian.csproj.GenerateResource.cache
+C:\Users\shiv\source\repos\russian\russian\obj\Debug\russian.csproj.CoreCompileInputs.cache
+C:\Users\shiv\source\repos\russian\russian\obj\Debug\russian.exe
+C:\Users\shiv\source\repos\russian\russian\obj\Debug\russian.pdb
+C:\Users\shiv\source\repos\russian\russian\bin\Debug\russian.pdb
+C:\Users\shiv\source\repos\russian\russian\obj\Debug\russian.csprojAssemblyReference.cache
